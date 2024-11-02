@@ -3,6 +3,9 @@
 ## Ngôn ngữ
 C++ 
 
+## Library
+OpenCV
+
 ## Source
 https://terabox.link/s/1cEvYw2k1BoioEogB8-FgXw
 
